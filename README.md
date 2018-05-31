@@ -1,7 +1,14 @@
 # Domulus
 Manipulation of DOM on stimulus js
 
-### Example
+### Installation
+
+```
+npm install -s ...
+```
+
+
+### Usage
 
 ##### controller
 
